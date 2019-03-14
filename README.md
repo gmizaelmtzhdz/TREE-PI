@@ -27,7 +27,7 @@ Las validaciones son completamente automatizadas, no es requerida la intervenci�
 
 ## ¿QUÉ SOLUCIONA?
 
-Disminuir la contaminación. Actualmente en mi ciudad de residencia: Monterrey, México, existe una disputa entre el gobierno y la ciudadanía, ya que existe un cada vez más grave problema de contaminación por una parte se menciona que se debe a una mezcla entre las pedreras, los automóviles y la industria. Mientras continúa la disputa nadie propone una solución alterna para ayudar a nuestro medio ambiente, TREE PI ayudará a contrarrestar la contaminación en nuestra ciudad.
+Disminuir la contaminación. Actualmente en mi ciudad de residencia: [Monterrey, México](https://www.google.com/search?q=contaminaci%C3%B3n%20monterrey%20m%C3%A9xico), existe una disputa entre el gobierno y la ciudadanía, ya que existe un cada vez más grave problema de contaminación por una parte se menciona que se debe a una mezcla entre las pedreras, los automóviles y la industria. Mientras continúa la disputa nadie propone una solución alterna para ayudar a nuestro medio ambiente, TREE PI ayudará a contrarrestar la contaminación en nuestra ciudad.
 
 ## ¿CÓMO SABRÁ EL GOBIERNO QUIEN TIENE DESCUENTO?
 
@@ -54,4 +54,5 @@ Disminuir la contaminación. Actualmente en mi ciudad de residencia: Monterrey, 
 
 
 **Súmate a TREE PI y pintemos de verde nuestras ciudades!!!**
- Atte:  [@G. Mizael Mtz Hdz](https://github.com/martinezmizael)
+
+Atte:  [@G. Mizael Mtz Hdz](https://github.com/martinezmizael)
